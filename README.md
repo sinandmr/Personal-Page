@@ -11,7 +11,7 @@ PHP ile yaptığım ilk proje ♥
 - Kullanıcı adı : `sinan`
 - Şifre : `123`
 ## Canlı
-- Site          : https://sinandemir.cloud/personal-page/
-- Admin Panel   : https://sinandemir.cloud/personal-page/admin
+- Site          : https://www.sinandemir.cloud/personal-page/
+- Admin Panel   : https://www.sinandemir.cloud/personal-page/admin
 - Kullanıcı Adı : `admin`
 - Şifre         : `123`
