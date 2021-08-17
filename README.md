@@ -1,6 +1,3 @@
-# PHP CV Scripti
-
-PHP ile yaptığım ilk proje ♥  
 ## Özellikler
 - Her şey dinamik ve admin paneli var.
 ## Kurulum
